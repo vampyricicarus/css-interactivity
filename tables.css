@@ -1,0 +1,15 @@
+ol {
+    background-color: blueviolet;
+    color: black;
+    border: 0cap;
+    border-radius: 20px;
+}
+
+table {
+    border-radius: 30px;
+}
+
+td:hover {
+    box-shadow: 30px;
+    background-color: red;
+}
